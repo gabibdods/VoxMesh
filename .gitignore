@@ -11,4 +11,10 @@
 
 # particular repository ignores:
 
-!Example.txt
+!App.xaml
+!App.xaml.cs
+!AssemblyInfo.cs
+!MainWindow.xaml
+!MainWindow.xaml.cs
+!VoxelMesh.sln
+!VoxMesh.csproj
